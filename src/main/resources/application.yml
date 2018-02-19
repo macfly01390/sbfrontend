@@ -1,0 +1,3 @@
+server:
+  context-path: /sbfrontend
+  port: 9090
